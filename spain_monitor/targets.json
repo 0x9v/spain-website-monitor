@@ -1,0 +1,9 @@
+{
+  "interval_seconds": 1800,
+  "targets": [
+    {"name":"icp_directory", "url":"https://sede.administracionespublicas.gob.es/pagina/index/directorio/icpplus"},
+    {"name":"icp_booking", "url":"https://icp.administracionelectronica.gob.es/icpplus/citar?p=15&locale=es"},
+    {"name":"icp_tie", "url":"https://sede.administracionespublicas.gob.es/icpplustiej/acCitar?locale=es"},
+    {"name":"mercurio", "url":"https://mercurio.delegaciondelgobierno.gob.es/mercurio/"}
+  ]
+}
